@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ## steps to add project first time/ creating new project in github
 prerequsites: git-bash is installed , git username and mail is coninfigured, git hub account created 
-- locate the source folder and oprn cmd/gitbash
+- step 1 locate the source folder and oprn cmd/gitbash
+- step 6 git remote add origin "paste git repo link"
