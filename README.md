@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 prerequsites: git-bash is installed , git username and mail is coninfigured, git hub account created 
 - step 1 locate the source folder and oprn cmd/gitbash
 - step 6 git remote add origin "paste git repo link"
+- step 7 git push origin master
